@@ -10,8 +10,8 @@ module.exports = {
             host: "127.0.0.1",
             port: "3306",
             user: "root",
-            password: "",
-            database: "knexPractice",
+            password: "Password",
+            database: "bugtrackerapi",
         },
     },
 
@@ -21,8 +21,8 @@ module.exports = {
             host: "127.0.0.1",
             port: "3306",
             user: "root",
-            password: "",
-            database: "knexPractice",
+            password: "Password",
+            database: "bugtrackerapi",
         },
         pool: {
             min: 2,
@@ -39,8 +39,8 @@ module.exports = {
             host: "127.0.0.1",
             port: "3306",
             user: "root",
-            password: "",
-            database: "knexPractice",
+            password: "Password",
+            database: "bugtrackerapi",
         },
         pool: {
             min: 2,
