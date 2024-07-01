@@ -10,7 +10,7 @@ module.exports = {
             host: "127.0.0.1",
             port: "3306",
             user: "root",
-            password: "Password",
+            password: "",
             database: "bugtrackerapi",
         },
     },
@@ -21,7 +21,7 @@ module.exports = {
             host: "127.0.0.1",
             port: "3306",
             user: "root",
-            password: "Password",
+            password: "",
             database: "bugtrackerapi",
         },
         pool: {
@@ -39,7 +39,7 @@ module.exports = {
             host: "127.0.0.1",
             port: "3306",
             user: "root",
-            password: "Password",
+            password: "",
             database: "bugtrackerapi",
         },
         pool: {
